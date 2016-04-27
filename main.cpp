@@ -29,6 +29,7 @@ const QByteArray BOOK_TAG="<!--BOOK";
 
 bool inRemove =false;
 
+
 enum TypeComment {
     VOID,
     DUMMY,
