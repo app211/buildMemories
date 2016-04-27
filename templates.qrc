@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>templates/numero.js</file>
+        <file>templates/numero.html</file>
+    </qresource>
+</RCC>
